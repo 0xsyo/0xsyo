@@ -1,1 +1,1 @@
-Udah Ngupi ?
+Udah Ngupi bolo ?

@@ -17,6 +17,3 @@ Kalau kalian merasa proyek ini membantu atau sekadar suka dengan apa yang saya b
 </p>
 
 Makasih banyak buat support-nya! Kalian luar biasa! 🙌🔥  
-
-## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xsyo&theme=react-dark)
